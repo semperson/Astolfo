@@ -1,4 +1,4 @@
-# Astolfo
+# Astolfo 👒
 Astolfo siri
 
 ## Installation
